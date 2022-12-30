@@ -6,7 +6,9 @@ public class First {
 	{
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hi, This my first Java code in the Devops sec class");
+		System.out.println("Hi, This is my first Java code in the Devops sec class");
+		
+		System.out.println("Hi, This is the second line added in the Java code");
 
 	}
 
